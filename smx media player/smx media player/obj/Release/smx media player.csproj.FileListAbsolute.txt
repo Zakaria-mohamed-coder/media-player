@@ -1,0 +1,4 @@
+D:\C sharp\smx media player\smx media player\bin\Release\smx media player.exe.config
+D:\C sharp\smx media player\smx media player\obj\Release\Interop.WMPLib.dll
+D:\C sharp\smx media player\smx media player\obj\Release\AxInterop.WMPLib.dll
+D:\C sharp\smx media player\smx media player\obj\Release\smx media player.csproj.ResolveComReference.cache

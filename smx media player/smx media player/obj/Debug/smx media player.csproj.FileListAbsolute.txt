@@ -1,0 +1,8 @@
+D:\C sharp\smx media player\smx media player\bin\Debug\smx media player.exe.config
+D:\C sharp\smx media player\smx media player\obj\Debug\Interop.WMPLib.dll
+D:\C sharp\smx media player\smx media player\obj\Debug\AxInterop.WMPLib.dll
+D:\C sharp\smx media player\smx media player\obj\Debug\smx media player.csproj.ResolveComReference.cache
+D:\C sharp\smx media player\smx media player\obj\Debug\smx media player.csprojResolveAssemblyReference.cache
+D:\C sharp\smx media player\smx media player\obj\Debug\smx_media_player.panelsidemenu.resources
+D:\C sharp\smx media player\smx media player\obj\Debug\smx_media_player.Properties.Resources.resources
+D:\C sharp\smx media player\smx media player\obj\Debug\smx media player.csproj.GenerateResource.Cache
